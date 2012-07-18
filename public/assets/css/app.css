@@ -1,0 +1,66 @@
+#main {
+	width: 670px;
+	margin: 30px auto;
+}
+
+#main h1 {
+	font: 800 70px/70px "open sans";
+	text-align: center;
+}
+
+h2 {
+	font: 600 30px/30px "open sans";
+}
+
+#logo {
+	padding: 20px 0;
+}
+
+#slogan {
+	font: 400 36px/36px "gentium book basic";
+	font-style: italic;
+	margin-top: 100px;
+	margin-left: 15px;
+}
+
+#faq p {
+	font: 400 15px/22px "gentium book basic";
+}
+
+#details {
+	margin-top: 20px;
+}
+
+#dojo {
+	padding-left: 50px;
+}
+
+#dojo ol {
+	margin: 0;
+	padding-top: 10px;
+}
+
+li {
+	list-style-type: none;
+}
+
+#members {
+	margin: 0;
+}
+
+#members li {
+	padding: 10px 0;
+}
+
+.avatar {
+	width: 50px;
+}
+
+.name {
+	padding-top: 3px;
+	font: 400 18px/24px "gentium book basic";
+}
+
+.link {
+	font: 400 14px/16px "gentium book basic";
+}
