@@ -3,11 +3,11 @@ require 'rack/less'
 require 'rack/contrib/try_static'
 
 use Rack::Less,
-  :source    => 'public/assets/less',
+  :source    => '/assets/less',
   :hosted_at => '/assets/css'
 
 use Rack::TryStatic, 
-    :root => "public",
+    :root => Dir.pwd,
     :urls => %w[/],
     :try => ['.html', 'index.html', '/index.html']
 
