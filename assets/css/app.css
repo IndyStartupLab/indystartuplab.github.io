@@ -10,6 +10,12 @@
 
 h2 {
 	font: 600 30px/30px "open sans";
+	text-transform: uppercase;
+	text-align: center;
+}
+
+hr {
+	margin: 10px 0px;
 }
 
 #logo {
@@ -23,16 +29,12 @@ h2 {
 	margin-left: 15px;
 }
 
-#faq p {
+.faq p {
 	font: 400 15px/22px "gentium book basic";
 }
 
-#details {
+#details, #dojo {
 	margin-top: 20px;
-}
-
-#dojo {
-	padding-left: 50px;
 }
 
 #dojo ol {
@@ -63,4 +65,28 @@ li {
 
 .link {
 	font: 400 14px/16px "gentium book basic";
+}
+
+li.member {
+	width: 220px;
+	display: inline-block;
+}
+
+.project-summary {
+	width: 290px;
+	padding: 10px;
+}
+
+.project-row {
+	margin-bottom: 15px;
+}
+
+.project img {
+	width: 290px;
+}
+
+.project-blurb {
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
 }
