@@ -12,6 +12,7 @@ h2 {
 	font: 600 30px/30px "open sans";
 	text-transform: uppercase;
 	text-align: center;
+	vertical-align: top;
 }
 
 hr {
