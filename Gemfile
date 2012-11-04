@@ -1,6 +1,3 @@
 source :rubygems
 
-gem 'rack'
-gem 'rack-less'
-gem 'rack-contrib'
-gem 'shotgun'
+gem 'jekyll'

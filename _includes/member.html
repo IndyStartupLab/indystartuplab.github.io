@@ -1,0 +1,23 @@
+<li class="member">
+  <div class="row-fluid">
+    <div class="span4">
+      <div class="avatar thumbnail">
+        {% if member.twitter %}
+          <img src="http://twitter.com/api/users/profile_image/{{ member.twitter }}" />
+        {% else %}
+          <img src="/assets/img/facekick.jpg" />
+        {% endif %}
+      </div>
+    </div>
+    <div class="span8">
+      <p class="name">{{ member.name }}</p>
+      <p class="link">
+        {% if member.twitter %}
+          <a href="http://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>
+        {% elsif member.url %}
+          <a href="{{ member.url }}">Website</a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+</li>
