@@ -105,9 +105,12 @@ li.project {
 }
 
 .project-desc > p {
-	height: 60px;
+	height: 70px;
+	margin-bottom: 10px;
 }
 
 .stick-bottom {
 	margin: 0px;
+	padding: 5px 0px 0px 0px;
+	border-top: 1px solid #DDD;
 }
