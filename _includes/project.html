@@ -1,0 +1,19 @@
+<li class="project">
+    <div class="thumbnail project-summary">
+      <a href="{{ project.url }}" class="project">
+        <img src="/assets/img/{{ project.img }}" alt="">
+      </a>
+      <div class="project-desc">
+        <h3>{{ project.name }}</h3>
+        <p>{{ project.desc }}</p>
+      </div>
+      <div>
+        <p class="clearfix stick-bottom">
+          <a class="pull-left" href="{{ project.url }}">
+            {{ project.name }}
+          </a>
+          <span class="pull-right">{{ project.members }}</span>
+        </p>
+      </div>
+    </div>
+</li>

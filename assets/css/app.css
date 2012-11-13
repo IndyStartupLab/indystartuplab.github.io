@@ -47,11 +47,16 @@ li {
 	list-style-type: none;
 }
 
-#members {
+#members, #projects {
 	margin: 0;
 }
 
-#members li {
+#projects > ul {
+	padding: 0;
+	margin: 0;
+}
+
+#members li, #projects li {
 	padding: 10px 0;
 }
 
@@ -73,9 +78,16 @@ li.member {
 	display: inline-block;
 }
 
+li.project {
+	width: 333px;
+	display: inline-block;
+	vertical-align: top;
+}
+
 .project-summary {
-	width: 290px;
 	padding: 10px;
+	width: 290px;
+	margin: 0 auto;
 }
 
 .project-row {
@@ -90,4 +102,12 @@ li.member {
 	text-align: center;
 	font-size: 14px;
 	font-style: italic;
+}
+
+.project-desc > p {
+	height: 60px;
+}
+
+.stick-bottom {
+	margin: 0px;
 }
