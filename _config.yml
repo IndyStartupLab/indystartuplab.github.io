@@ -135,4 +135,10 @@ projects:
     url: http://www.equitysteaks.com
     members: Kyle, Tony, Matt, and Michael
 
+  - name: Stringer
+    img: stringer.png
+    desc: |
+      A self-hosted, anti-social RSS reader.
+    url: https://github.com/swanson/stringer
+    members: Matt
 
