@@ -142,3 +142,10 @@ projects:
     url: https://github.com/swanson/stringer
     members: Matt
 
+  - name: Ghostile
+    img: ghostile.png
+    desc: |
+      Make cool 'ghost like' images by blending two photos together
+    url: https://itunes.apple.com/us/app/ghostile/id697588942?ls=1&mt=8
+    members: Michael
+
