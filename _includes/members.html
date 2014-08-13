@@ -1,10 +1,10 @@
-{% assign title = "Dojo Members" %}
+{% assign title = "Who's been to this thing?" %}
 {% include section_header.html %}
 
 <div class="row-fluid">
   <div class="span12" id="dojo">
     <ul id="members">
-      {% for member in site.members %}
+      {% for member in site.data.members %}
         {% include member.html %}
       {% endfor %}
     </ul>

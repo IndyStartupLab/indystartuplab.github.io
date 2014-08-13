@@ -1,0 +1,79 @@
+# Projects list
+#
+# Required fields: `name`, `img`, `desc`, `url`, `members`
+
+- name: RailsThemes
+  img: railsthemes.png
+  desc: |
+    Beautiful themes for your Rails app, sliced into HTML and CSS and customized 
+    for your gems and tools.
+  url: https://railsthemes.com
+  members: Anthony and Eliza
+
+- name: Morale
+  img: moraleapp.png
+  desc: |
+    Daily team mood tracking.
+  url: https://www.moraleapp.com/
+  members: Matt
+
+- name: AwesomeController
+  img: awesomecontroller.png
+  desc: | 
+    Awesome Controller lets you play retro video game systems with modern wireless 
+    controllers.
+  url: http://www.awesomecontroller.com/
+  members: Team WAKKA
+
+- name: paperplane
+  img: paperplane.png
+  desc: |
+    Radically simple static hosting. Dropbox in. Website out.
+  url: http://www.paperplane.io/
+  members: Kyle and Tony
+
+- name: ClassRealm
+  img: classrealm.png
+  desc: |
+    ClassRealm provides a platform for teachers to introduce gamification into their 
+    classrooms, encourage better behavior patterns, and promote creative expression.
+  url: http://www.classrealm.com
+  members: Dave and Courtny
+
+- name: Generic Space Shooter
+  img: genericspaceshooter.png
+  desc: |
+    A generic space shooter game using CoffeeScript and HTML5 canvas, like Galaga 
+    but store brand.
+  url: https://github.com/shipstar/space-shooter
+  members: Kyle and Anthony
+
+- name: 5 Day Prototype
+  img: fivedayprototype.png
+  desc: |
+    Get the ideas out of your head and into the world. Five day rapid prototyping for 
+    your startup or product.
+  url: http://www.fivedayprototype.com/
+  members: Kyle and Tony
+
+- name: Equity Steaks
+  img: equitysteaks.jpg
+  desc: |
+    An employee compensation plan that's well done.
+  url: http://www.equitysteaks.com
+  members: Kyle, Tony, Matt, and Michael
+
+- name: Stringer
+  img: stringer.png
+  desc: |
+    A self-hosted, anti-social RSS reader.
+  url: https://github.com/swanson/stringer
+  members: Matt
+
+- name: Ghostile
+  img: ghostile.png
+  desc: |
+    Make cool 'ghost like' images by blending two photos together
+  url: https://itunes.apple.com/us/app/ghostile/id697588942?ls=1&mt=8
+  members: Michael
+

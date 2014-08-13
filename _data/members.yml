@@ -1,0 +1,67 @@
+# Member list
+#
+# Required fields: `name`
+# Optional fields: `twitter`, `url`
+
+- name: Kyle Shipley
+  twitter: kyleashipley
+
+- name: Anthony Panozzo
+  twitter: panozzaj
+
+- name: Matt Swanson
+  twitter: _swanson
+
+- name: Monica Mazda
+  url: http://www.linkedin.com/pub/monica-mazda/31/b89/a93
+
+- name: Tony Dewan
+  twitter: tonydewan
+
+- name: Alex Toumey
+  twitter: atoumey
+
+- name: Alex Lopes
+  twitter: IamAlexLopes
+
+- name: Eliza Brock
+  twitter: elizabrock
+
+- name: Wes Winham
+  twitter: weswinham
+
+- name: Anthony Smith
+  twitter: sticksnleaves
+
+- name: Dave Mathew
+  twitter: mathewda
+
+- name: Courtny Cotten
+  twitter: courtnycotten
+
+- name: Trey Buck
+  twitter: treybuck
+
+- name: Winston Kotzan
+  twitter: winstonkotzan
+
+- name: Hank Graves
+  twitter: hankgraves
+
+- name: Todd Grotenhuis
+  twitter: toddgrotenhuis
+
+- name: Jacob Krall
+  twitter: InPermutation
+
+- name: Jennifer Krall
+  twitter: jennifertwk
+
+- name: Kail Keusch
+  twitter: kfkkail
+
+- name: Michael Fellows
+  twitter: mafellows
+  
+- name: Joel Dart
+  twitter: joeldart
