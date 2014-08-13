@@ -1,5 +1,5 @@
 # General Jekyll Config
 lsi: false
-exclude: [".gitignore", ".ruby-version", "CNAME", "README.md", "Gemfile", "Gemfile.lock"]
+exclude: [".gitignore", ".ruby-version", "CNAME", "readme.md", "Gemfile", "Gemfile.lock"]
 gems:
   - jekyll-sitemap

@@ -6,6 +6,6 @@ We meet once a week and work on whatever interests us — startups, side project
 
 To run the server locally, run `bundle install` and then run `jekyll serve --watch`.
 
-Add new members/projects to `_data/projects.yml`.
+Add new members/projects in `_data/`.
 
 [link]: http://indystartuplab.org
